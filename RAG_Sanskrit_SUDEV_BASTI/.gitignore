@@ -1,0 +1,21 @@
+# Large Models
+code/models/*.gguf
+code/models/*.bin
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated Data
+data/chroma_db/
+
+# System Files
+.DS_Store
+Thumbs.db
